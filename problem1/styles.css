@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #ffffff; /* Background color of the body */
+}
+
+header {
+    background-color: black; /* Background color of the header */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif; /* Font family for the header */
+    font-size: 24px; /* Font size for the header */
+    color: white; /* Text color for the header */
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+article {
+    border: 2px solid #000000; /* Add border around the articles */
+    padding: 20px;
+    margin-bottom: 20px; /* Add margin between articles */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
